@@ -1,0 +1,21 @@
+# Target labels
+ Main
+ opencv_hal
+ AccuracyTest
+# Source files and their labels
+/home/pavel/Desktop/opencv-master/modules/hal/test/test_intrin.cpp
+ Main
+ opencv_hal
+ AccuracyTest
+/home/pavel/Desktop/opencv-master/modules/hal/test/test_main.cpp
+ Main
+ opencv_hal
+ AccuracyTest
+/home/pavel/Desktop/opencv-master/modules/hal/test/test_precomp.hpp
+ Main
+ opencv_hal
+ AccuracyTest
+/home/pavel/Desktop/opencv-master/modules/hal/test/test_intrin_utils.hpp
+ Main
+ opencv_hal
+ AccuracyTest
